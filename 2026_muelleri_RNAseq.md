@@ -4,7 +4,7 @@ I did this in two batches because the first batch was highly sex-skewed based on
 
 I have data in these directories:
 ```
-/home/ben/projects/rrg-ben/ben/2026_fischbergi_RNAseq/fq/trimmed
+/home/ben/projects/rrg-ben/ben/2024_allo_muel_RNAseq/fq/muel_fq
 /home/ben/projects/rrg-ben/ben/2024_allo_muel_RNAseq/fq_muel_RNAseq_round2_2026
 ```
 
@@ -78,6 +78,9 @@ batch2 is completely consistent with Sam's PCR results:
 ```
 
 # fischbergi:
+```
+/home/ben/projects/rrg-ben/ben/2026_fischbergi_RNAseq/fq/trimmed
+```
 Based on the file size, these are possible females from batch 1:
 ```
 -rw-r----- 1 ben rrg-ben  2428 Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad10_S171_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
