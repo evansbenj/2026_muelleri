@@ -63,6 +63,19 @@ tad42,F
 ```
 There is a discrepancy: kmers say tad31 is a male but PCR says it is a female
 
+batch2:
+```
+30.2	F
+31.2	F
+34.2	F
+32.2	M
+33.2	M
+35.2	M
+37.2	M
+39.2	M
+40.2	M
+43.2	M
+```
 
 # fischbergi:
 Based on the file size, these are possible females from batch 1:
