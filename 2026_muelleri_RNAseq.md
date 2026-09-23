@@ -63,7 +63,7 @@ tad42,F
 ```
 There is a discrepancy: kmers say tad31 is a male but PCR says it is a female
 
-batch2:
+batch2 is completely consistent with Sam's PCR results:
 ```
 30.2	F
 31.2	F
