@@ -10,7 +10,7 @@ I have data in these directories:
 
 I intersected kmers from each tad with the fem-specific kmers based on WGS. 
 
-Based on kmers, these are the females:
+Based on kmers, these are the females for round1:
 ```
 -rw-r----- 1 ben rrg-ben 5804 Sep 23 08:42 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_muelleri_tad32_trim.R12_meryldb.out_intersect.meryl_counts.txt
 -rw-r----- 1 ben rrg-ben 3264 Sep 23 08:42 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_muelleri_tad34_trim.R12_meryldb.out_intersect.meryl_counts.txt
