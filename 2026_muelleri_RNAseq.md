@@ -96,6 +96,7 @@ Based on the file size, these are possible females:
 and these are possible males:
 ```
 -rw-r----- 1 ben rrg-ben  509 Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad12_S173_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
+-rw-r----- 1 ben rrg-ben    66 Sep 23 12:57 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad16_S177_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
 -rw-r----- 1 ben rrg-ben  407 Sep 23 08:41 in_allfemz_intersect_sum.meryl_but_not_allmalez_unionsum.meryl.meryl_X_fischbergi_tad20_S181_L008_R_trim.R12_meryldb.out_intersect.meryl_counts.txt
 ```
 
